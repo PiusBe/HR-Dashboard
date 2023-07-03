@@ -61,3 +61,6 @@ Future Termination Dates: Some termination dates were far into the future and we
  
 5. CONCLUSION
 In conclusion, this data analysis provides valuable insights into the HR data, highlighting various trends and patterns. The findings suggest a gender imbalance among employees, with the dominance of White race. The age distribution reveals a significant number of employees in their late 20s and early 30s. The turnover rate varies across departments, with Marketing and Training having higher rates. The data also indicates the importance of the headquarters as a work location. Additionally, the analysis provides insights into the historical employee trends and tenure across departments. These findings can help inform decision-making and HR strategies within the organization.
+
+![Dashboard2](https://github.com/PiusBe/HR-Dashboard/assets/118339046/94adaf26-6ada-4177-b6bc-079462075ab4)
+
